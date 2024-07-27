@@ -1,7 +1,10 @@
 body{
     
     margin-top: 3%;
-    background-color:#90be6d ;
+    background-image: url(WhatsApp\ Image\ 2024-07-27\ at\ 00.32.14.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
 
     div{
         margin-top: 5%;
